@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <!-- Main Pages -->
+    <url>
+        <loc>https://badparents.click/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/about.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/characters.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/features.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/trailer.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/faq.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/contact.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/privacy-policy.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://badparents.click/terms-of-service.html</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Spanish Pages -->
+    <url>
+        <loc>https://badparents.click/es/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Indonesian Pages -->
+    <url>
+        <loc>https://badparents.click/id/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Filipino Pages -->
+    <url>
+        <loc>https://badparents.click/fil/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Arabic Pages -->
+    <url>
+        <loc>https://badparents.click/ar/</loc>
+        <lastmod>2025-01-01</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Images -->
+    <url>
+        <loc>https://badparents.click/icon.png</loc>
+        <lastmod>2025-01-01</lastmod>
+        <image:image>
+            <image:loc>https://badparents.click/icon.png</image:loc>
+            <image:title>Bad Parenting Game Icon</image:title>
+        </image:image>
+    </url>
+</urlset>
