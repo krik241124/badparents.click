@@ -1,88 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-    <!-- Main Pages -->
-    <url>
-        <loc>https://badparents.click/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/about.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/characters.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/features.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/trailer.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/faq.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/contact.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/privacy-policy.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://badparents.click/terms-of-service.html</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.6</priority>
-    </url>
-
-    <!-- Spanish Pages -->
-    <url>
-        <loc>https://badparents.click/es/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Indonesian Pages -->
-    <url>
-        <loc>https://badparents.click/id/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Filipino Pages -->
-    <url>
-        <loc>https://badparents.click/fil/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Arabic Pages -->
-    <url>
-        <loc>https://badparents.click/ar/</loc>
-        <lastmod>2025-01-01</lastmod>
-        <priority>0.8</priority>
-    </url>
-
-    <!-- Images -->
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Icon image -->
     <url>
         <loc>https://badparents.click/icon.png</loc>
-        <lastmod>2025-01-01</lastmod>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
         <image:image>
             <image:loc>https://badparents.click/icon.png</image:loc>
-            <image:title>Bad Parenting Game Icon</image:title>
+            <image:title>Bad Parents Game Icon</image:title>
+            <image:caption>Bad Parents Game Official Icon</image:caption>
         </image:image>
     </url>
+    <!-- Home page with all language alternates -->
+    <url>
+        <loc>https://badparents.click/</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN"/>
+    </url>
+
+    <!-- About page with all language alternates -->
+    <url>
+        <loc>https://badparents.click/about</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/about"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/about"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/about"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/about"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/about"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/about"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/about"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/about"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/about"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/about"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/about"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/about"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/about"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/about"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/about"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/about"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/about"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/about"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/about"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/about"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/about"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/about"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/about"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/about"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/about"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/about"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/about"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/about"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/about"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/about"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/about"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/about"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/about"/>
+    </url>
+
+    <!-- Characters page with all language alternates -->
+    <url>
+        <loc>https://badparents.click/characters</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/characters"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/characters"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/characters"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/characters"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/characters"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/characters"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/characters"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/characters"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/characters"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/characters"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/characters"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/characters"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/characters"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/characters"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/characters"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/characters"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/characters"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/characters"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/characters"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/characters"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/characters"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/characters"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/characters"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/characters"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/characters"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/characters"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/characters"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/characters"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/characters"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/characters"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/characters"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/characters"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/characters"/>
+    </url>
+
+    <!-- Features page -->
+    <url>
+        <loc>https://badparents.click/features</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/features"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/features"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/features"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/features"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/features"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/features"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/features"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/features"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/features"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/features"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/features"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/features"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/features"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/features"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/features"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/features"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/features"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/features"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/features"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/features"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/features"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/features"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/features"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/features"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/features"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/features"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/features"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/features"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/features"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/features"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/features"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/features"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/features"/>
+    </url>
+
+    <!-- Trailer page -->
+    <url>
+        <loc>https://badparents.click/trailer</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/trailer"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/trailer"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/trailer"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/trailer"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/trailer"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/trailer"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/trailer"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/trailer"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/trailer"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/trailer"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/trailer"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/trailer"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/trailer"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/trailer"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/trailer"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/trailer"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/trailer"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/trailer"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/trailer"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/trailer"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/trailer"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/trailer"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/trailer"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/trailer"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/trailer"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/trailer"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/trailer"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/trailer"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/trailer"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/trailer"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/trailer"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/trailer"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/trailer"/>
+        <!-- Continue with all other language alternates -->
+    </url>
+
+    <!-- FAQ page -->
+    <url>
+        <loc>https://badparents.click/faq</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/faq"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/faq"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/faq"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/faq"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/faq"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/faq"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/faq"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/faq"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/faq"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/faq"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/faq"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/faq"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/faq"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/faq"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/faq"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/faq"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/faq"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/faq"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/faq"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/faq"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/faq"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/faq"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/faq"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/faq"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/faq"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/faq"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/faq"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/faq"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/faq"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/faq"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/faq"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/faq"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/faq"/>
+        <!-- Continue with all other language alternates -->
+    </url>
+
+    <!-- Contact page -->
+    <url>
+        <loc>https://badparents.click/contact</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/contact"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/contact"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/contact"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/contact"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/contact"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/contact"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/contact"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/contact"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/contact"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/contact"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/contact"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/contact"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/contact"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/contact"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/contact"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/contact"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/contact"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/contact"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/contact"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/contact"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/contact"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/contact"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/contact"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/contact"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/contact"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/contact"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/contact"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/contact"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/contact"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/contact"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/contact"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/contact"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/contact"/>
+    </url>
+
+    <!-- Privacy Policy page -->
+    <url>
+        <loc>https://badparents.click/privacy-policy</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/privacy-policy"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/privacy-policy"/>
+    </url>
+
+    <!-- Terms of Service page -->
+    <url>
+        <loc>https://badparents.click/terms-of-service</loc>
+        <lastmod>2025-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://badparents.click/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://badparents.click/ar/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://badparents.click/cs/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://badparents.click/da/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://badparents.click/de/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="el" href="https://badparents.click/el/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://badparents.click/es/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="et" href="https://badparents.click/et/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://badparents.click/fi/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://badparents.click/fr/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="ga" href="https://badparents.click/ga/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="hu" href="https://badparents.click/hu/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="id" href="https://badparents.click/id/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://badparents.click/it/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://badparents.click/ja/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://badparents.click/ko/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="lb" href="https://badparents.click/lb/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="lt" href="https://badparents.click/lt/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="lv" href="https://badparents.click/lv/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="mt" href="https://badparents.click/mt/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://badparents.click/nl/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="no" href="https://badparents.click/no/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://badparents.click/pl/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://badparents.click/pt/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="ro" href="https://badparents.click/ro/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://badparents.click/ru/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="sk" href="https://badparents.click/sk/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="sl" href="https://badparents.click/sl/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="sv" href="https://badparents.click/sv/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://badparents.click/tl/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://badparents.click/tr/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="https://badparents.click/vi/terms-of-service"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://badparents.click/zh-CN/terms-of-service"/>
+    </url>
+    
 </urlset>

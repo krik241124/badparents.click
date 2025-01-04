@@ -1,64 +1,70 @@
-# MiSide Game Landing Page 🎮
+# Bad Parents Game Landing Page 🎮
 
-![MiSide Logo](https://static.wikia.nocookie.net/miside/images/b/b8/Kind_Mita.png)
+![Bad Parents Icon](icon.png)
 
 ## 🌟 Overview
 
-MiSide is an immersive psychological horror adventure game that blends reality with the virtual world. Released on December 11, 2024, this unique gaming experience combines 2D and 3D perspectives with anime-style visuals to deliver an unforgettable interactive story.
+Bad Parents is a unique and thought-provoking game that explores the complexities and challenges of parenting in modern society. This game offers players an opportunity to experience different parenting scenarios and make impactful decisions that shape both the parent's and child's future.
 
 ## ✨ Features
 
-- **Dual Perspective Gameplay**: Seamlessly switch between 2D and 3D viewpoints
-- **Rich Narrative**: Deep psychological storyline with multiple endings
-- **Anime-Style Graphics**: Beautiful character designs and environments
-- **Interactive Story**: Your choices matter and affect the game's outcome
-- **Achievement System**: Various unlockable achievements and challenges
-- **Multiple Languages**: Support for multiple languages including English, Chinese, and Portuguese
+- **Immersive Storytelling**: Rich narrative with meaningful choices and consequences
+- **Multiple Scenarios**: Various parenting challenges and situations to navigate
+- **Dynamic Character Development**: Watch how your decisions impact both parent and child
+- **Educational Value**: Learn about different parenting styles and their effects
+- **Achievement System**: Track your progress and unlock special content
+- **Global Accessibility**: Available in 32 languages including:
+  - English, Arabic, Czech, Danish, German
+  - Greek, Spanish, Estonian, Finnish, French
+  - Irish, Hungarian, Indonesian, Italian, Japanese
+  - Korean, Luxembourgish, Lithuanian, Latvian
+  - Maltese, Dutch, Norwegian, Polish, Portuguese
+  - Romanian, Russian, Slovak, Slovenian
+  - Swedish, Filipino, Turkish, Vietnamese
+  - Chinese (Simplified)
 
 ## 🎯 Key Game Elements
 
-- **Psychological Horror**: Dive into a world where reality and virtual existence intertwine
-- **Character Development**: Experience the story through various character perspectives
-- **Multiple Endings**: Your choices lead to different story outcomes
-- **Immersive Atmosphere**: Engaging sound design and visual effects
+- **Decision Making**: Every choice matters in your parenting journey
+- **Consequence System**: Experience the long-term effects of your parenting decisions
+- **Interactive Scenarios**: Real-life inspired situations and challenges
+- **Character Relationships**: Build and maintain relationships with your virtual family
 
 ## 🛠 Technical Stack
 
 - HTML5
-- Tailwind CSS
+- CSS3
 - JavaScript
-- Google Analytics Integration
-- Microsoft Clarity Analytics
 - Responsive Design
+- SEO Optimization
+- Multi-language Support
+- Analytics Integration
 
+## 🌐 Browser Support
 
-## 🚀 Getting Started
+- Google Chrome (recommended)
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
+- Opera
 
-Clone the repository:
-git clone https://github.com/krik241124/miside.click.git
-Open the project in your preferred code editor
-Launch the website:
-Use a local development server
-Or simply open index.html in your browser
+## 📱 Responsive Design
 
-🌐 Browser Support
-Chrome (recommended)
-Firefox
-Safari
-Edge
-📱 Responsive Design
-The website is fully responsive and optimized for:
+The website is fully optimized for:
+- Desktop computers
+- Tablets
+- Mobile devices
 
-Desktop devices
-Tablets
-Mobile phones
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🔄 Updates
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Last updated: January 4, 2025
 
-📞 Contact
-For more information about MiSide, visit our website at miside.click
+## 📞 Contact
 
-Made with ❤️ by the MiSide Team
+For more information about Bad Parents, visit our website at [badparents.click](https://badparents.click)
+
+## 📄 License
+
+© 2025 Bad Parents Game. All rights reserved.
+
+Made with ❤️ by the Bad Parents Team
