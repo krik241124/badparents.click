@@ -1,6 +1,0 @@
-{
-    "redirects": [
-      { "source": "/index.html", "destination": "/", "statusCode": 302 },
-      { "source": "/:lang/index.html", "destination": "/:lang/", "statusCode": 302 }
-    ]
-  }
